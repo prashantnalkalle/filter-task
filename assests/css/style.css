@@ -1,0 +1,29 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+.all{
+	height: 250px;
+	width: 250px;
+	padding : 10px;
+	margin: 20px;
+
+}
+.yellowgreen{
+	background-color: yellowgreen;
+}
+
+.orange{
+	background-color: orange;
+}
+.blueviolet{
+	background-color: blueviolet;
+}
+.hotpink{
+	background-color: hotpink;
+}
+
+
+
